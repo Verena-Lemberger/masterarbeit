@@ -1,0 +1,12 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 16000,
+      "languageCode": "de-AT",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"C:\Users\veren\OneDrive\DSIA\Masterarbeit\STT_Interviews\Interviews\Interview_1.m4a"
+  }
+}
+
