@@ -1,0 +1,12 @@
+2: Dies ist eine Sprachaufnahme zum Test meiner Stimme, die ich | start: 0.8 sec., end: 7.2 sec.
+
+1: auswerten soll. Grundsätzlich geht es darum zu sehen, wie die Stimme auf andere wirkt, welche Möglichkeiten es gibt sie zu verbessern | start: 6.0 sec., end: 17.7 sec.
+
+2: vielleicht auch die Sprechgeschwindigkeit | start: 16.6 sec., end: 20.1 sec.
+
+1: anzusehen und eine Analyse des gesamten stimmprofil zu machen und daran weiterhin arbeiten zu können | start: 18.7 sec., end: 27.4 sec.
+
+2: und gezielte Atemübungen | start: 26.7 sec., end: 29.5 sec.
+
+1: dazu einzubauen. | start: 28.8 sec., end: 30.2 sec. END
+
