@@ -14,7 +14,7 @@ Data Science & Intelligent Analytics
 Verfasser/in:   Verena Lemberger, BA
                 1910837920
 Erstgutachter:	Lukas Huber, MSc
-Zweitgutachter:	Dr. Stephan Arnim Franzmann
+Zweitgutachter:	Dr. Arnim Franzmann
 Abgabedatum:    18. Juni 2021
 
 
